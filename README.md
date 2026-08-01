@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Rupam from Kolkata<br><br>- 🔭 I’m working on a CNN-based image classification project<br>- 📚 I'm currently learning seaborn & scikit-learn</p>
+<p data-importer="text" align="left">I'm Rupam from Kolkata<br><br>​🧠 Learning More about Artificial Intelegence & Machine Learning  <br>​🛠️ Focus: Machine Learning, Neural Networks, Data Analytics<br>​📊 Actively building models and tackling datasets on Kaggle.</p>
 
 ###
 
